@@ -26,7 +26,7 @@
 
 <h2>Getting Started 🚀</h2>
 <p>Are you unfamiliar with Hacktoberfest or new to Git/GitHub? Curious about competitive programming and how to get involved with CPForge?</p>
-<p>Check out our <a href="https://dev.to/kappuccino111/iit-mandi-students-lets-fortify-our-opensource-armour-together-opd">Getting Started Guide</a>. Everything you need to kickstart your open source journey is waiting for you. We've got resources tailored just for you! 😊</p>
+<p>Check out our <a href="https://dev.to/luv_sharma_cfa5d80d379937/gear-up-for-hacktoberfest-iit-mandi-students-empowering-open-source-together-64d">Getting Started Guide</a>. Everything you need to kickstart your open source journey is waiting for you. We've got resources tailored just for you! 😊</p>
 
 <h2>Repository Overview 📚</h2>
 
@@ -86,6 +86,8 @@
 
 <h2>Author ✍️</h2>
 <p><a href="https://github.com/Stormbreakerr20">Luv Sharma</a></p>
+<p><a href="https://github.com/ABHIJEETJHA0102">Abhijeet Kumar Jha</a></p>
+<p><a href="https://github.com/nandan645">Abhinandan Kumar</a></p>
 <h6>Happy Coding and Best of Luck in Hacktoberfest 2024!</h6>
 <h2>Hacktoberfest 2024 - Let's Code, Compete, and Collaborate!</h2>
 
