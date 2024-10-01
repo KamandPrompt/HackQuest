@@ -18,7 +18,7 @@ For a more detailed explanation, you can read about it [here](https://en.wikiped
 
 ## Complexity Analysis
 - **Time Complexity:**
-  - Precomputation: \( O(n \log \log n) \), where \( n = 10^6 \).
+  - Precomputation: \( O(n (log (log n) )), where \( n = 10^6 \).
   - Query Time: \( O(1) \) for each query.
   
 - **Space Complexity:** 
