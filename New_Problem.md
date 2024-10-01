@@ -1,5 +1,5 @@
 # Problem Statement
-You are given \( t \) test cases \((1 \leq t \leq 10^5)\). For each test case, you are provided with an integer \( n \) such that \( 1 < n \leq 10^6 \). Your task is to determine the largest prime factor of \( n \).
+You are given \( t \) test cases \((1 <=t <= 10^5)\). For each test case, you are provided with an integer \( n \) such that \( 1 < n <= 10^6 \). Your task is to determine the largest prime factor of \( n \).
 
 ## Approach
 The solution involves a Modified Sieve of Eratosthenes:
