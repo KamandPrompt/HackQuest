@@ -54,12 +54,10 @@ int main() {
     sieve_largest_prime();
 
     int t;
-    cout << "Enter number of test cases (1 <= t <= 5): ";
     cin >> t;
 
     while (t--) {
         int n;
-        cout << "Enter value of n (1 < n <= 10^6): ";
         cin >> n;
 
         // Output the largest prime factor for n
