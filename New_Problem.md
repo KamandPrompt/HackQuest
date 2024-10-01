@@ -19,7 +19,8 @@ For a more detailed explanation, you can read about it [here](https://en.wikiped
 ## Complexity Analysis
 - **Time Complexity:**
   - Precomputation: \( O(n (log (log n) )), where \( n = 10^6 \).
-  - Query Time: \( O(1) \) for each query.
+  - Query Time: \( O(1) \) for each query. Here t testcases
+  - Overall :  \( O(n (log (log n) )), where \( n = 10^6 \).
   
 - **Space Complexity:** 
   - \( O(n) \) for storing the largest prime factor for each number.
