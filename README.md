@@ -64,6 +64,7 @@
     <li>Your solutions must be well-commented and clean.</li>
     <li>Problems added must not already exist in the repository, and should provide meaningful coding challenges.</li>
     <li>All PRs should include proper explanations or problem statements, including input/output formats.</li>
+    <li>The PR description should include your Roll Number and Name at the top.<li>
     <li>
         <strong>Solution Naming Convention:</strong> 
         <ul>
