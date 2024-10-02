@@ -53,7 +53,8 @@
 <p>For this Hacktoberfest, your contributions will focus on solving and adding competitive programming problems from various coding platforms (e.g., Codeforces, CodeChef, LeetCode).</p>
 <ul>
     <li><strong>2 PRs for solving problems:</strong> Select problems from platforms like Codeforces, CodeChef, or LeetCode, solve them, and submit your solutions. Make sure to add the solution in the appropriate folder.</li>
-    <li><strong>2 PRs for adding new problems:</strong> Find or create unique competitive programming problems, and submit them under the relevant folder along with their solutions. The problems should be categorized based on their difficulty, corresponding to the rating ranges provided.</li>
+    <li><strong>1 PRs for adding new problems:</strong> Find or create unique competitive programming problems, and submit them under the relevant folder along with their solutions. The problems should be categorized based on their difficulty, corresponding to the rating ranges provided.</li>
+    <li><strong>1 PRs for implementation of one of the codes:</strong> For the codes you have provided, you have to create an visual implementation of working of that code, and submit them under relevant folder. You can use any tech stack to create an visual working of your code on any given testcase.</li>
 </ul>
 
 <p><strong>Important:</strong> For each problem you solve or add, ensure that you follow the naming conventions and guidelines specified, including providing the problem link and a well-commented explanation of your solution.</p>
