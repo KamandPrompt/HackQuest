@@ -2,6 +2,22 @@
 # Problem Statement
 You are given `t` test cases (1 ≤ t ≤ 10^5). For each test case, you are provided with an integer `n` such that 1 < n ≤ 10^6. Your task is to determine the largest prime factor of `n`.
 
+Example : 
+INPUT
+5
+2
+5
+10
+17
+1001
+
+OUTPUT
+2
+5
+5
+17
+13
+
 ## Approach
 The solution involves a modified version of the Sieve of Eratosthenes:
 
