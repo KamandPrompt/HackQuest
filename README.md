@@ -70,6 +70,7 @@
         <ul>
             <li>Name your solution files using the format: <strong>Platform_ProblemName</strong>.</li>
             <li>Example: <strong>codeforces_8A</strong> for a problem from Codeforces or <strong>codechef_THREETOPICS</strong> for a problem from CodeChef.</li>
+            <li>Example: <strong>newproblem_PROBLEMNAME</strong> for a newly created problem.</li>
         </ul>
     </li>
     <li>
