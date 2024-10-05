@@ -31,4 +31,33 @@ Output :-
 
 // Solution To the Problem Statement
 
-// Add your solution here
+#include <bits/stdc++.h>
+using namespace std;
+
+int main()
+{
+    /*  
+        This question is pretty straight forward, you are given N number of strings.
+
+        if the string == X++ then you increase the value of X
+        else if the String is X-- you decrease the value of X
+
+        finally print the value of X
+    */
+   
+    int n;cin>>n;
+    int X = 0;  // initial value is 0
+    for(int i = 0; i < n; i++){
+        string s; cin>>s;
+        if(s == "X++") {    // if string is X++, increase the value of X using the ++ operator;
+            X++;
+        }
+        else{               // in this case the input string is X--, so decrease the value of X;
+            X--;
+        }
+    }
+    cout<<X<<endl;          // finally return the value of X
+
+
+    return 0;
+}
